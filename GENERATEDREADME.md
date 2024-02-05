@@ -1,9 +1,9 @@
-# fvewav
-  ## Description <a name="description"></a>
-  awv
-  ## Table of Contents
+# dc ![Static Badge](https://img.shields.io/badge/License-grey?label=MIT&labelColor=red)
+  ## Description <a id="description"></a>
+  sca
+  ## Table of Contents <a id="tableOfContent"></a>
   * [Description](#description)
-  * Table of Contents
+  * [Table of Contents](#tableOfContent)
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
@@ -11,15 +11,17 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation <a id="installation"></a>
-  wervw
+  ac
   ## Usage <a id="usage"></a>
-  acwae
+  ac
   ## License <a id="license"></a>
-  MIT
+  This application is covered under the
+  ![Static Badge](https://img.shields.io/badge/License-grey?label=MIT&labelColor=red)
   ## Contributing <a id="contributing"></a>
-  
+  ca
   ## Tests <a id="tests"></a>
-  cwc
+  ac
   ## Questions <a id="questions"></a>
-  https://github.com/wEC
-  CW
+  For any additional questions please feel free to reach me at:
+  * https://github.com/ac
+  * ca
