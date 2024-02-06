@@ -1,5 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(answers) {
+  if (answers.license) {
+    answers.license = answers.license.replace(/\s/g, '%20');
+  }
   return `# ${answers.title} ![Static Badge](https://img.shields.io/badge/License-grey?label=${answers.license}&labelColor=red)
   ## Description <a id="description"></a>
   ${answers.description}

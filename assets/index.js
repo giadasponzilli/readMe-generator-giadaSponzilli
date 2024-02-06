@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("../utils/generateMarkdown");
 const util = require('util');
 
 const writeFileAsync = util.promisify(fs.writeFile);
@@ -62,9 +62,7 @@ const questions = [{
 }
 ];
 
-// // function to write README file
-// function writeToFile(fileName, data) {
-// }
+
 
 // function to initialize program
 const promptUser = () =>
@@ -72,6 +70,6 @@ const promptUser = () =>
 
 // function call to initialize program
 promptUser()
-  .then ((answers) => writeFileAsync ('GENERATEDREADME.md', generateMarkdown(answers)) )
+  .then ((answers) => writeFileAsync ('../outputReadMe/README.md', generateMarkdown(answers)) )
   .then(() => console.log('Successfully wrote to README.md'))
   .catch((err) => console.error(err));
