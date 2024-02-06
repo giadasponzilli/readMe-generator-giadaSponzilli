@@ -4,7 +4,7 @@
 
 This README generator command-line application allows users to streamline their open-source project setup. They can quickly create a professional README.md file tailored to their project's needs, saving time and effort. They can customize each section such as Description, Installation, Usage, License, Contributing, Tests and Questions, while automatically generating a clickable Table of Contents for easy navigation. The README generator simplifies the creation process and ensure the project starts off with a good ReadMe file.
 
-Link to the walkthrough video that demonstrates the functionality of the README generator:
+Link to the walkthrough video that demonstrates the functionality of the README generator: https://drive.google.com/file/d/1Xb7RdfLy0ZJ4cgFj89DIcBETjmojmSbH/view?usp=sharing
 
 ## Installation
 
